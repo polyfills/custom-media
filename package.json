@@ -1,7 +1,7 @@
 {
   "name": "custom-media",
   "description": "CSS Custom Media Polyfill",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": {
     "name": "Jonathan Ong",
     "email": "me@jongleberry.com",
@@ -27,5 +27,7 @@
     "variables",
     "polyfill"
   ],
-  "files": ["index.js"]
+  "files": [
+    "index.js"
+  ]
 }

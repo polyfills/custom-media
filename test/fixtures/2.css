@@ -1,0 +1,5 @@
+@custom-media --small-viewport (max-width: 30em);
+
+@media (--small-viewport) and screen {
+  /* styles for small viewport */
+}
